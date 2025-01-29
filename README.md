@@ -37,7 +37,7 @@ The server should start on **http://localhost:3000** (or another port if specifi
 ### **GET /**
 #### Endpoint URL:
 ```
-http://localhost:3000/
+https://hngi12-backend.onrender.com
 ```
 
 #### Response Format:
@@ -59,7 +59,7 @@ http://localhost:3000/
 
 #### Example Usage
 ```sh
-curl -X GET http://localhost:3000/
+curl -X GET https://hngi12-backend.onrender.com
 ```
 
 ---
